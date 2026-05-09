@@ -218,18 +218,3 @@ st.markdown("---")
 st.caption("Projet IA - Diagnostic médical avec réseau bayésien")
 
 
-# =====================================
-# INSTRUCTIONS D'EXÉCUTION
-# =====================================
-
-'''
-1. Installer les bibliothèques :
-
-pip install streamlit pgmpy matplotlib
-
-2. Lancer l'application :
-
-streamlit run app.py
-
-3. Le navigateur s'ouvrira automatiquement.
-'''
